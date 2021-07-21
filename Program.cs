@@ -25,6 +25,7 @@ namespace projetoLogicaRec
                 {
                     Console.WriteLine($"você não tem idade suficiente para o evento, está acompanhado com alguém mais de 18 anos, sim/não?");
                     string resposta = Console.ReadLine();
+                    
 
                     switch (resposta)
                     {
@@ -43,13 +44,34 @@ namespace projetoLogicaRec
 
                             break;
                     }
-                    Console.WriteLine("Desejar cadastrar mais alguém?");
+
+                    Console.WriteLine("Desejar cadastrar mais alguém? sim/não");
+                    String x = Console.ReadLine();
+
+                    switch (x)
+                    {
+                        case "sim":
+                            break;
+
+                         case "não":
+                         Console.WriteLine($"bye bye!");
+                         
+                            break;
+
+                        default:
+                        Console.WriteLine($"RESPOSTA INVALIDA!!");
+                        
+                            break;
+                    }
+                    
+
                     
 
                     Console.WriteLine("Lista de Participantes");
-                    Nome = Console.ReadLine().ToLower();
-
-                    
+                    Console.WriteLine();
+                    foreach (String cadanome in ParticipantesDoEvento)
+                    Nome = Console.ReadLine();
+       
                 }
             } while (true);
             {

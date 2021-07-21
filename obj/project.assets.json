@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\denis\\.nuget\\packages\\": {}
+    "C:\\Users\\Dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denis\\OneDrive\\Área de Trabalho\\projetoLogicaRec\\projetoLogicaRec.csproj",
+      "projectUniqueName": "C:\\Users\\Dev\\Desktop\\LogicaRec\\projetoLogicaRec.csproj",
       "projectName": "projetoLogicaRec",
-      "projectPath": "C:\\Users\\denis\\OneDrive\\Área de Trabalho\\projetoLogicaRec\\projetoLogicaRec.csproj",
-      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denis\\OneDrive\\Área de Trabalho\\projetoLogicaRec\\obj\\",
+      "projectPath": "C:\\Users\\Dev\\Desktop\\LogicaRec\\projetoLogicaRec.csproj",
+      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dev\\Desktop\\LogicaRec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

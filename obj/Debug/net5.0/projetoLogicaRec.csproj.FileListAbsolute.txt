@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.exe
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.deps.json
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.runtimeconfig.json
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.dll
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\ref\projetoLogicaRec.dll
+C:\Users\Dev\Desktop\LogicaRec\bin\Debug\net5.0\projetoLogicaRec.pdb
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.AssemblyInfo.cs
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.dll
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\ref\projetoLogicaRec.dll
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.pdb
+C:\Users\Dev\Desktop\LogicaRec\obj\Debug\net5.0\projetoLogicaRec.genruntimeconfig.cache
